@@ -30,7 +30,7 @@ Remember to always press "Save and Exit" to save the registered bookmarks.
 Contact
 ========
 
-Did you find bugs? Do you have any suggestions? You can contact me by email: markontm@gmail.com
+Did you find bugs? Do you have any suggestions? You can contact me by email: markontm0153@gmail.com
 
 Português BR:
 Bem vindo (?) a versão 0.3 de Mark On.
@@ -64,5 +64,5 @@ Lembre-se de sempre apertar em "Salvar e Sair" para salvar os marcadores cadastr
 Contato
 ========
 
-Achou bugs? Tem sugestões? Você pode entrar em contato comigo pelo e-mail: markontm@gmail.com
+Achou bugs? Tem sugestões? Você pode entrar em contato comigo pelo e-mail: markontm0153@gmail.com
 
